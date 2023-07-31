@@ -1,0 +1,3 @@
+name: msg-command-test
+version: '${project.version}'
+main: de.simonsator.msgcommandtest.MSGCommandTestMain
